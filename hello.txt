@@ -1,5 +1,6 @@
-hello git ! master
-give a new change on master branch 
+<<<<<<< HEAD
+hello git !  :
+hello git ! 
 hello git !
 hello git !
 hello git !
