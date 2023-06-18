@@ -1,4 +1,4 @@
-hello git !
+hello git ! on hot-fix a new branch
 hello git !
 hello git !
 hello git !
