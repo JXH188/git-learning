@@ -7,4 +7,9 @@ git commit 文件名
 git status
 git branch -v 查看分支
 git checkout <分支名> 切换分支
+git merge <分支名> 在master分支上合并另外一个分支
+代码冲突合并
+git remote -v 创建别名
+git remote add <别名> https://......
+git push 别名 分支
 
