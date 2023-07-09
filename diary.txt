@@ -5,4 +5,6 @@ git init  初始化目录
 git add 文件名
 git commit 文件名
 git status
-git 
+git branch -v 查看分支
+git checkout <分支名> 切换分支
+
